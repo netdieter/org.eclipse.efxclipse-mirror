@@ -28,7 +28,8 @@
 	<modules>
 		<!-- OSGI Support -->
 		<module>../../bundles/runtime/org.eclipse.fx.javafx</module>
-		<module>../../bundles/runtime/org.eclipse.fx.osgi</module>
+		<module>../../bundles/runtime/org.eclipse.fx.osgi.luna</module>
+
 		<module>../../bundles/runtime/org.eclipse.fx.osgi.util</module>
 		<!-- Core Modules -->
 		<module>../../bundles/runtime/org.eclipse.fx.core</module>
@@ -83,7 +84,7 @@
 		<repository>
 			<id>kepler</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/releases/kepler</url>
+			<url>http://download.eclipse.org/releases/luna</url>
 		</repository>
 		<!--  repository>
 			<id>kepler-ecf</id>

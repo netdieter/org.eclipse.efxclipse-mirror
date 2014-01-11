@@ -4,5 +4,5 @@ Bundle-Name: Luna
 Bundle-SymbolicName: org.eclipse.fx.osgi.luna
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: BestSolution.at
-Fragment-Host: org.eclipse.osgi
+Fragment-Host: system.bundle
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
